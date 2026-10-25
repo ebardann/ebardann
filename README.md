@@ -7,6 +7,8 @@ I'm interested in *why* neural networks work — what structure they discover, h
 
 ---
 
+<p align="center"> <img src="./assets/banner.png" alt="Banner" width="100%" /> </p>
+
 ## 🧠 Career goals
 Aiming to contribute towards a complete theory of deep learning and solving the intelligence problem.
 
