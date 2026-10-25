@@ -1,4 +1,4 @@
-# Hi, I'm Emilio 👋
+# Hello there, I'm Emilio 👋
 
 **Applied mathematics undergraduate** working where geometry, algebra, and learning systems meet.
 I'm interested in *why* neural networks work — what structure they discover, how geometry constrains them, and their ability to represent concepts.
